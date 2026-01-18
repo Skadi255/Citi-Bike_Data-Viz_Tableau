@@ -1,4 +1,4 @@
-# Citi-Bike_Data-Viz_Tableau
+# Citi-Bike_Data_Viz_Tableau
 **Interactive Dashboard:**\
 https://public.tableau.com/views/Citi-BikeData_17686330584480/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
